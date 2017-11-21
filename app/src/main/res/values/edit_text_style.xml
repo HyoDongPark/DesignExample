@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="vividColor"
+        parent="@android:style/Widget.DeviceDefault.EditText">
+        <item name="android:textColor">@color/button_text_color</item>
+        <item name="android:background">@drawable/edit_text_background</item>
+        <item name="android:padding">20dp</item>
+    </style>
+</resources>

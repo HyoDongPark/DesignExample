@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="myCheckbox"
+        parent="@android:style/Widget.DeviceDefault.CompoundButton.CheckBox">
+        <item name="android:button">@drawable/check</item>
+        <item name="android:paddingLeft">6dp</item>
+    </style>
+</resources>
